@@ -13,6 +13,12 @@ This project is inspired by:
 - [Remote OK](https://remoteok.io)
 - [RemoteOkJobs](https://remoteokjobs.com)
 
+## Repositories
+
+- [`planetary`](https://github.com/azobu-projects/planetary)
+- [`planetary-web`](https://github.com/azobu-projects/planetary-web)
+- [`planetary-api`](https://github.com/azobu-projects/planetary-api)
+
 ## Designs
 
 - [Mockup](https://figma.com)
